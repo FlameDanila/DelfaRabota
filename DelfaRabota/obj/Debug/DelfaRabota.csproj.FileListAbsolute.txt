@@ -1,0 +1,82 @@
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\bin\Debug\DelfaRabota.exe.config
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\bin\Debug\DelfaRabota.exe
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\bin\Debug\DelfaRabota.pdb
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.AssemblyReference.cache
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\App.g.cs
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.cache
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.lref
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\MainWindow.baml
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.g.resources
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.Properties.Resources.resources
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.GenerateResource.cache
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.CoreCompileInputs.cache
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.exe
+C:\Users\D306.4\source\repos\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.pdb
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\bin\Debug\DelfaRabota.exe.config
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\bin\Debug\DelfaRabota.exe
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\bin\Debug\DelfaRabota.pdb
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.AssemblyReference.cache
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\App.g.cs
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.cache
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.lref
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\MainWindow.baml
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.g.resources
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.Properties.Resources.resources
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.GenerateResource.cache
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.CoreCompileInputs.cache
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.exe
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.pdb
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danila\Desktop\DelfaRabota\DelfaRabota\obj\Debug\DelfaRabota.csproj.ResolveComReference.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\bin\Debug\DelfaRabota.exe.config
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\bin\Debug\DelfaRabota.exe
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\bin\Debug\DelfaRabota.pdb
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.AssemblyReference.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.ResolveComReference.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\App.g.cs
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.lref
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\MainWindow.baml
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.g.resources
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.Properties.Resources.resources
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.GenerateResource.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.CoreCompileInputs.cache
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.exe
+C:\Users\D306.4\Desktop\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.pdb
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\bin\Debug\DelfaRabota.exe.config
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\bin\Debug\DelfaRabota.exe
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\bin\Debug\DelfaRabota.pdb
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.AssemblyReference.cache
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.ResolveComReference.cache
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\App.g.cs
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.cache
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.lref
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\MainWindow.baml
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.g.resources
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.Properties.Resources.resources
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.GenerateResource.cache
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.csproj.CoreCompileInputs.cache
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.exe
+C:\Users\D214\Desktop\delfa-master\Оселедченко\delfa-master\DelfaRabota\obj\Debug\DelfaRabota.pdb
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\bin\Debug\DelfaRabota.exe.config
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\bin\Debug\DelfaRabota.exe
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\bin\Debug\DelfaRabota.pdb
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.csproj.AssemblyReference.cache
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.csproj.ResolveComReference.cache
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\MainWindow.g.cs
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\App.g.cs
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.cache
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota_MarkupCompile.lref
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\MainWindow.baml
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.g.resources
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.Properties.Resources.resources
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.csproj.GenerateResource.cache
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.csproj.CoreCompileInputs.cache
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.exe
+C:\Users\D214\Desktop\Новая папка\DelfaRabota\obj\Debug\DelfaRabota.pdb
