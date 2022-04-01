@@ -12,5 +12,7 @@
         <TextBlock HorizontalAlignment="Center" Margin="57,47,63,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="672" FontSize="20"><Run Text="Добавьте сюда "/><Run Text="ссылку на категорию, без тега"/><Run Text=" page/("/><Run Text="до 60 организаций"/><Run Text=")"/></TextBlock>
         <RadioButton x:Name="Vlad" Content="Вывести только долготу, широту и название" HorizontalAlignment="Left" Margin="500,344,0,0" VerticalAlignment="Top" IsChecked="True"/>
         <RadioButton x:Name="All" Content="Вывести все данные" HorizontalAlignment="Left" Margin="500,364,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <TextBox x:Name="Radius" HorizontalAlignment="Left" Height="25" Margin="78,351,0,0" TextWrapping="Wrap" Text="500" VerticalAlignment="Top" Width="146" BorderBrush="Black"/>
+        <TextBlock HorizontalAlignment="Left" Margin="78,321,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Введите радиус"/><Run Text=" (только цифры)"/></TextBlock>
     </Grid>
 </Window>

@@ -183,7 +183,7 @@ namespace DelfaRabota
 
                         worksheet.Cells[1][startRowIndex + 1] = match.Groups[2].Value + ",";
                         worksheet.Cells[2][startRowIndex + 1] = match.Groups[1].Value + ",";
-                        worksheet.Cells[3][startRowIndex + 1] = "500,";
+                        worksheet.Cells[3][startRowIndex + 1] = $"{Convert.ToInt32(Radius.Text)},";
                         worksheet.Cells[4][startRowIndex + 1] = name;
 
                         Excel.Range rangeBorders = worksheet.Range[worksheet.Cells[1][1], worksheet.Cells[4][startRowIndex + 1]];
