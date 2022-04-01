@@ -64,6 +64,8 @@ namespace DelfaRabota
                 {
                     try
                     {
+                        if (allCounter == 5)
+                        { allCounter = 0; }
                         Match matches = Regex.Match(linkText.Text, @"https://2gis.ru/(\w*?)/search/(.*?)/");
 
                         sity = matches.Groups[1].Value;
@@ -179,11 +181,6 @@ namespace DelfaRabota
 
                         Excel.Worksheet worksheet = application.Worksheets.Item[1];
 
-                        worksheet.Cells[1][startRowIndex] = "Долгота";
-                        worksheet.Cells[2][startRowIndex] = "Широта";
-                        worksheet.Cells[3][startRowIndex] = "Радиус";
-                        worksheet.Cells[4][startRowIndex] = "Название";
-
                         worksheet.Cells[1][startRowIndex + 1] = match.Groups[2].Value + ",";
                         worksheet.Cells[2][startRowIndex + 1] = match.Groups[1].Value + ",";
                         worksheet.Cells[3][startRowIndex + 1] = "500,";
@@ -200,7 +197,7 @@ namespace DelfaRabota
 
                         worksheet.Columns.AutoFit();
 
-                        startRowIndex += 2;
+                        startRowIndex ++;
                     }
                 }
                 application.Visible = true;
