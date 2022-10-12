@@ -1,0 +1,17 @@
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\bin\x86\Debug\DelfaRabota.exe.config
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\bin\x86\Debug\DelfaRabota.exe
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\bin\x86\Debug\DelfaRabota.pdb
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.csproj.ResolveComReference.cache
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\App.g.cs
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota_MarkupCompile.cache
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota_MarkupCompile.lref
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\MainWindow.baml
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.g.resources
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.Properties.Resources.resources
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.exe
+C:\Users\Администратор\Desktop\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\DelfaRabota.pdb
