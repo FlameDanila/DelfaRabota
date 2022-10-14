@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Администратор\Desktop\Projects\DelfaRabota-Vlad\DelfaRabota\obj\x86\Debug\
+C:\Users\Администратор\Desktop\Projects\DelfaRabota-Vlad\DelfaRabota\obj\Release\
 DelfaRabota
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Администратор\Desktop\Projects\DelfaRabota-Vlad\DelfaRabota\App.xaml
 1219584333
 
@@ -16,5 +16,5 @@ C:\Users\Администратор\Desktop\Projects\DelfaRabota-Vlad\DelfaRabot
 15-976980279
 MainWindow.xaml;
 
-False
+True
 

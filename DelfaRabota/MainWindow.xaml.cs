@@ -207,19 +207,17 @@ namespace DelfaRabota
 
                         match = Regex.Match(allData.ToString(), @"data-divider-shifted="".*""><div class=""_14uxmys""><span><a href=""(.*?)"".* aria-label=""ВКонтакте""");
                         site = match.Groups[1].Value;
-
                         Match matchWA = Regex.Match(allData.ToString(), @"</span></div><div class=""_14uxmys""><span><a href=""(.*?)""(.*?) aria-label=""WhatsApp""");
-                        site += "\n" + matchWA.Groups[1].Value;
-
+                        string siteWA = matchWA.Groups[1].Value;
                         Match matchViber = Regex.Match(allData.ToString(), @"_14uxmys""><span><a href=""(.*?)""(.*?) aria-label=""Viber""");
-                        site += "\n" + matchViber.Groups[1].Value;
+                        string siteViber = matchViber.Groups[1].Value;
 
                         Excel.Worksheet worksheet = application.Worksheets.Item[1];
 
-                        worksheet.Cells[1][startRowIndex] = "Название";
-                        worksheet.Cells[2][startRowIndex] = "ВК";
-                        worksheet.Cells[3][startRowIndex] = "ВА";
-                        worksheet.Cells[4][startRowIndex] = "Вайбер";
+                        worksheet.Cells[1][startRowIndex] = name;
+                        worksheet.Cells[2][startRowIndex] = site;
+                        worksheet.Cells[3][startRowIndex] = siteWA;
+                        worksheet.Cells[4][startRowIndex] = siteViber;
 
                         Excel.Range rangeBorders = worksheet.Range[worksheet.Cells[1][1], worksheet.Cells[4][startRowIndex + 1]];
 
